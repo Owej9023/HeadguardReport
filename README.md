@@ -2,7 +2,7 @@
 This is an app designed to work with the Trumbull aquatic center and their data.
 
 # Installation
-To use this app you need to install R and perferably R studio
+To use this app you need to install R and perferably R studio which you can do at the following link https://posit.co/download/rstudio-desktop/.
 Once installed you should run the following code to install the necessary packages to run the code.
 
 install.packages(shiny)
