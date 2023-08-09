@@ -30,6 +30,16 @@ install.packages("prophet")
 
 install.packages("Amelia")
 
+install.packages("stringr")
+
+install.packages("shinyjs")
+
+install.packages("googledrive")
+
+install.packages("gargle")
+
+install.packages("readr")
+
 install.packages("padr")
 
 install.packages("plotly")
